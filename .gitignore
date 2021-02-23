@@ -200,3 +200,6 @@ Thumbs.db
 !examples/maxwells_equations/*
 !examples/lagrange_interpolation_general/*
 !docs/quazar_logo.png
+
+# VSCode
+.vscode*
